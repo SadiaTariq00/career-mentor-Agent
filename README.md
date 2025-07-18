@@ -67,6 +67,8 @@ career-mentor-agent/
 ├── model/
 │ └── gemini_model.py
 
+
+
 2. Create and Activate Virtual Environment
 # Windows
 python -m venv venv
@@ -80,6 +82,11 @@ GEMINI_API_KEY=your_gemini_api_key_here
 Start your Chainlit career bot with:
 chainlit run main.py
 
- 
  Author
 Sadia Tariq
+
+🛠️ Clone the Repository (If using GitHub)
+
+```bash
+git clone https://github.com/your-username/career-mentor-agent.git
+cd career-mentor-agent
