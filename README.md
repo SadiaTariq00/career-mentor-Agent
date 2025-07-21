@@ -88,5 +88,5 @@ Sadia Tariq
 🛠️ Clone the Repository (If using GitHub)
 
 ```bash
-git clone https://github.com/your-username/career-mentor-agent.git
+git clone https://github.com/SadiaTariq00/career-mentor-Agent.git
 cd career-mentor-agent
